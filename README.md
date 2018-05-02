@@ -1,0 +1,2 @@
+# LatihanGithu
+ini adalah derectory
